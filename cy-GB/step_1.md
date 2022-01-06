@@ -1,7 +1,7 @@
-- Click on the **Add Extension** button in the bottom left-hand corner of the screen
+- Clicia'r botwm **Ychwanegu Estyniad** ar waelod ochr chwith y dudalen
 
-![The add extention icon (two seperate blocks with an 'add' sign) is highlighted.](images/add-extension.png)
+![Mae'r eicon ychwanegu estyniad (dau floc ar wahân gydag arwydd 'plws') wedi'i hamlygu.](images/add-extension.png)
 
-- Choose the Raspberry Pi Sense HAT extension from the list
+- Dewisa'r estyniad Raspberry Pi Sense HAT o'r rhestr
 
-![The Raspberry Pi Sense HAT extension icon in the Extension list. The extension icon has a picture of a Raspberry Pi with Sense Hat and the words 'Raspberry Pi Sense HAT. Control Raspberry Pi Sense HAT'.](images/add-sensehat-extension.png)
+![Eicon estyniad Raspberry Pi Sense HAT yn y rhestr Estyniadau. Mae gan eicon yr estyniad lun o Raspberry Pi gyda Sense Hat a'r geiriau 'Raspberry Pi Sense HAT. Rheoli Raspberry Pi Sense HAT '.](images/add-sensehat-extension.png)
