@@ -1,7 +1,7 @@
-- Click on the **Add Extension** button in the bottom left-hand corner of the screen
+- Clique no botão **Adicionar uma Extensão** no canto inferior esquerdo da tela
 
-![The add extention icon (two seperate blocks with an 'add' sign) is highlighted.](images/add-extension.png)
+![O ícone adicionar extensão (dois blocos separados com um sinal de '+') é destacado.](images/add-extension.png)
 
-- Choose the Raspberry Pi Sense HAT extension from the list
+- Escolha a extensão Raspberry Pi Sense HAT da lista
 
-![The Raspberry Pi Sense HAT extension icon in the Extension list. The extension icon has a picture of a Raspberry Pi with Sense Hat and the words 'Raspberry Pi Sense HAT. Control Raspberry Pi Sense HAT'.](images/add-sensehat-extension.png)
+![O ícone de extensão Raspberry Pi Sense HAT na lista de extensões. O ícone de extensão tem uma imagem de um Raspberry Pi com Sense HAT e as palavras 'Raspberry Pi Sense HAT. Controle Raspberry Pi Sense HAT'.](images/add-sensehat-extension.png)
